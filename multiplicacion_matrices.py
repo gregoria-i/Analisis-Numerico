@@ -5,7 +5,7 @@
 import numpy as np
 
 
-def multiplicacion_matrices_aleatorias(matriz_1 : np.array, matriz_2 : np.array):
+def multiplicacion_matrices_aleatorias(matriz_1 : np.ndarray, matriz_2 : np.ndarray):
   """
   Función que genera matrices aleatorias y las multiplica
   """
